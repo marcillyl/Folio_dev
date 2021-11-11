@@ -10,7 +10,7 @@ const Header = () => {
           <span className='header__headline--big'>
             <span className='header__headline--number'>I.</span>Hello,
           </span>
-          Hello, I'm a web developer* in Bordeaux, France.
+          I'm a web developer* in Bordeaux, France.
         </h1>
         <p className='header__text'>
           a junior <span className='header__text--start'>*</span> web developer,
@@ -42,7 +42,7 @@ const Header = () => {
           <span className='profile--value'>"Javascript"</span>
           &#93;
           <br />
-          &#125;,
+          &#125;;
           <br />
           <span className='profile__line'>_</span>
         </code>
