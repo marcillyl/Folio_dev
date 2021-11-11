@@ -1,0 +1,32 @@
+.nav {
+  position: fixed;
+  z-index: 100;
+  top: 0px;
+  width: 100vw;
+  height: 40pt;
+  padding: 0px 24px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  background: white;
+  box-shadow: 0 7pt 7pt -7pt #00000044;
+}
+.nav__link {
+  padding: 3px;
+  margin: 0px 12px;
+  font-size: 11pt;
+  color: #9ca3af;
+  transition: color 120ms ease-in-out;
+}
+.nav__link:hover {
+  color: #374151;
+}
+.nav__link--icon {
+  font-size: 1.3em;
+}
+@media screen and (max-width: 600px) {
+  .nav {
+    justify-content: space-around;
+    padding: 0px 12px;
+  }
+}

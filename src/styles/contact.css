@@ -1,0 +1,13 @@
+.contact__mail {
+  display: inline-block;
+  padding: 12pt 24pt;
+  margin: 70px 0px;
+  background: #e11d48;
+  font-size: 1.1em;
+  color: white;
+  box-shadow: 10px 10px 0px #fecdd3;
+  transition: opacity 140ms ease-in-out;
+}
+.contact__mail:hover {
+  opacity: 0.7;
+}

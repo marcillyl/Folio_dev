@@ -1,0 +1,25 @@
+.footer {
+  height: 100pt;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: #e2e8f0;
+}
+.footer__text {
+  text-align: center;
+  line-height: 2em;
+  color: #9ca3af;
+}
+.footer__square {
+  height: 10px;
+  width: 10px;
+  margin: 7pt 0px;
+  background: #fda4af;
+}
+@media screen and (max-width: 600px) {
+  .footer__text {
+    font-size: 15px;
+  }
+}
