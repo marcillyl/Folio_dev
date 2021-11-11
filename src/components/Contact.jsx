@@ -16,7 +16,7 @@ const Contact = () => {
       <p className='text'>
         I'm seeking out opportunities to collaborate with companies / agencies /
         individuals. I want to bring my experience to the table where we can
-        work together to solve problems and answet your needs. <br />
+        work together to solve problems and answer your needs. <br />
         Drop me a line and let see what we can do together.
       </p>
       <a href='mailto:marcillyl@icloud.com' className='contact__mail'>

@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    siteUrl: 'https://www.marcillyl.github.io/',
+    siteUrl: 'https://marcillyl.github.io/folio',
     title: 'Luc Marcilly, web developer',
   },
   plugins: [

@@ -15,7 +15,7 @@ const Skills = () => {
       </div>
       <p className='text'>
         I've learned different tools to materialize ideas. From backend to
-        frontend, I've developped skills using open sources technologies. I like
+        frontend, I've developped skills using open source technologies. I like
         to keep learning, continue challenging myself and discover new ways to
         solve problems.
       </p>

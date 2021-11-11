@@ -14,7 +14,7 @@ const About = () => {
         </h2>
       </div>
       <p className='text'>
-        I've followed different paths that led me to wed development. These
+        I've followed different paths that led me to web development. These
         steps are all bricks that built the person I am. Take music production
         for instance : collaboration, listening and dedication are all skills
         that I now apply to web development.
