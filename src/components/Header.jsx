@@ -42,7 +42,7 @@ const Header = () => {
           <span className='profile--value'>"Javascript"</span>
           &#93;
           <br />
-          &#125;;
+          &#125;
           <br />
           <span className='profile__line'>_</span>
         </code>
