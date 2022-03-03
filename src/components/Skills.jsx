@@ -33,8 +33,8 @@ const Skills = () => {
           <p className='skills-skill__text'>Vue.js</p>
         </article>
         <article className='skills-skill'>
-          <i className='fab fa-react skills-skill__icon'></i>
-          <p className='skills-skill__text'>React</p>
+          <i className='fab fa-angular skills-skill__icon'></i>
+          <p className='skills-skill__text'>Angular</p>
         </article>
         <article className='skills-skill'>
           <i className='fab fa-node-js skills-skill__icon'></i>

@@ -5,7 +5,7 @@ const Nav = () => {
   return (
     <nav className='nav'>
       <a href='#home' className='nav__link'>
-        <i className='fas fa-home nav__link--icon'></i>
+        Hello
       </a>
       <a href='#skills' className='nav__link'>
         Skills

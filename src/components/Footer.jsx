@@ -6,7 +6,7 @@ const Footer = () => {
     <footer className='footer'>
       <p className='footer__text'>Made with love and Gatsby</p>
       <div className='footer__square'></div>
-      <p className='footer__text'>Copyright Luc Marcilly 2021</p>
+      <p className='footer__text'>Copyright Luc Marcilly 2022</p>
     </footer>
   );
 };

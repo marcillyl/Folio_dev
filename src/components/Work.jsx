@@ -62,21 +62,20 @@ const Work = () => {
         </div>
       </article>
       <article className='project'>
-        <a href='https://github.com/marcillyl/Remote'>
+        <a href='https://github.com/marcillyl/Agile'>
           <h3 className='project-headline'>
             <i className='fab fa-github project-headline__icon'></i>
-            <span className='project-headline__line'>_</span>reMote
+            <span className='project-headline__line'>_</span>Agile
             (work-in-progress)
           </h3>
         </a>
         <div className='project-container'>
           <p className='project__text'>
-            reMote is a project management tool. Built on Next, it's a sandbox
-            to try out things and ideas within a fully featured React
-            application.
+            Agile is a project management tool. Built on Angular, it's a sandbox
+            to try out things and ideas within a fully featured application.
           </p>
           <ul className='project-list'>
-            <li>[Next.js] - the progressive JavaScript framework</li>
+            <li>[Angular] - the modern web developer's platform</li>
             <li>[node.js] - evented I/O for the backend</li>
             <li>[Express] - fast node.js network app framework</li>
             <li>[Mongoose] - the MongoDB framework</li>
